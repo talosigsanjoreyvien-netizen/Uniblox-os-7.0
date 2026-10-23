@@ -1,21 +1,20 @@
-# Uniblox OS 7.1 (32x Pro)
+# Uniblox OS 7.2 (32x Pro)
 
-Uniblox OS 7.1 32x Pro is a complete desktop-mode ecosystem packaged into a single 1 GB ARM APK. Built using x86 architectural frameworks, it features a native .deb to .uea execution decoder to run advanced software directly on your Android tablet.
+Uniblox OS 7.2 32x Pro is a complete desktop-mode ecosystem packaged into a single 1 GB ARM APK. Built using x86 architectural frameworks, it features a native .deb to .uea execution decoder to run advanced software directly on your Android tablet.
 
 ## 💾 Download
 Get the latest release here: [Uniblox OS 7.0 Releases](https://github.com/talosigsanjoreyvien-netizen/Uniblox-os-7.0/releases/tag/7.2.0)
 
-## What's New in Version 7.1 (Upgrading from v7)
+## What's New in Version 7.2 (Upgrading from v7.2)
 * 🚀 **Real Freeform Windows:** No more rigid layouts. Apps can now be resized, dragged, and stacked.
-* 🖥️ **Redesigned Desktop Interface:** changed the taskbar to be adaptive and good
+* 🖥️ **Redesigned Desktop Interface:** added magnification to taskbar
 * 📦 **Self-Contained Engine:** All translation layers and system components are stored in the installation apk.
 
 ## 📱 system requirements
-* 5 or more gigs of ram
+* 6 or more gigs of ram
 * 198 ore more gigs of storage
 * make sure the tablet should not have the taskbar feature, meaning the google pixel tablet is not reccomended and it will lag
-* android 14 or later
-* 60 hz of screen smoothness
+* android 14 or higher
 
 ## 🧰 setup the operating system
 * set the app as your default launcher
