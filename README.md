@@ -5,7 +5,7 @@ Uniblox OS 7.2 32x Pro is a complete desktop-mode ecosystem packaged into a sing
 ## 💾 Download
 Get the latest release here: [Uniblox OS 7.0 Releases](https://github.com/talosigsanjoreyvien-netizen/Uniblox-os-7.0/releases/tag/7.2.0)
 
-## What's New in Version 7.2 (Upgrading from v7.2)
+## What's New in Version 7.2 (Upgrading from v7.1)
 * 🚀 **Real Freeform Windows:** No more rigid layouts. Apps can now be resized, dragged, and stacked.
 * 🖥️ **Redesigned Desktop Interface:** added magnification to taskbar
 * 📦 **Self-Contained Engine:** All translation layers and system components are stored in the installation apk.
