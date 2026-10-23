@@ -3,7 +3,7 @@
 Uniblox OS 7.1 32x Pro is a complete desktop-mode ecosystem packaged into a single 1 GB ARM APK. Built using x86 architectural frameworks, it features a native .deb to .uea execution decoder to run advanced software directly on your Android tablet.
 
 ## 💾 Download
-Get the latest release here: [Uniblox OS 7.0 Releases](https://github.com/talosigsanjoreyvien-netizen/Uniblox-os-7.0/releases/tag/7.1.0)
+Get the latest release here: [Uniblox OS 7.0 Releases](https://github.com/talosigsanjoreyvien-netizen/Uniblox-os-7.0/releases/tag/7.2.0)
 
 ## What's New in Version 7.1 (Upgrading from v7)
 * 🚀 **Real Freeform Windows:** No more rigid layouts. Apps can now be resized, dragged, and stacked.
